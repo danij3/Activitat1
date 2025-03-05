@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: #e4e4e4;
+    background-color: rgb(232, 240, 250);
     font-family: 'Open Sans', sans-serif;
     margin: 0 0 0 0;
 }
@@ -132,16 +132,16 @@ body {
 /* Main content */
 
 .internal_section {
-    
+    width: auto;
     padding: 20px;
     box-sizing: border-box;
-    background-color: #5d5d5d;
-    color: white;
+    background-color: rgb(232, 240, 250);
+    color: black;
     margin: 0;
 }
 
 .internal_section a {
-    color: white;
+    color: #2e518b;
     text-decoration: none;
     line-height: 1.5em;
 }
@@ -153,8 +153,8 @@ body {
 /* Intro */
 
 #intro {
-    background-color: #5d5d5d;
-    color: white;
+    background-color: rgb(232, 240, 250);
+    color: black;
     text-align: center;
     padding: 50px 20px;
     border-bottom: 5px solid #2e518b;
