@@ -135,8 +135,8 @@ body {
     
     padding: 20px;
     box-sizing: border-box;
-    background-color: #5d5d5d;
-    color: white;
+    background-color: whitesmoke;
+    color: black;
     margin: 0;
 }
 
@@ -227,7 +227,7 @@ body {
 }
 
 .iconos .icono:hover {
-    transform: translate(-50%, -50%) scale(1.2); /* Cambiado de scale(1.2px) a scale(1.2) */
+    transform: translate(-50%, -50%) scale(1.2); 
 }
 
 @keyframes float {
@@ -242,8 +242,8 @@ body {
 /* Intro */
 
 #intro {
-    background-color: #5d5d5d;
-    color: white;
+    background-color: whitesmoke;
+    color: black;
     text-align: center;
     padding: 50px 20px;
     border-bottom: 5px solid #2e518b;
